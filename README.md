@@ -57,6 +57,9 @@ Estou constantemente criando novos projetos para colocar em prática o que venho
   <a href="https://www.instagram.com/karaujo_dev/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:silvabaraujo2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -64,6 +67,7 @@ Estou constantemente criando novos projetos para colocar em prática o que venho
 > 💡 *"A melhor maneira de aprender programação é construindo."*
 
 <div align="center">
-  
-  ![snake gif](https://github.com/OiakBez/OiakBez/blob/output/github-snake-dark.svg)
+
+![snake gif](https://github.com/OiakBez/OiakBez/blob/output/github-snake-dark.svg)
+
 </div>
