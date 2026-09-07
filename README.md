@@ -62,3 +62,8 @@ Estou constantemente criando novos projetos para colocar em prática o que venho
 ---
 
 > 💡 *"A melhor maneira de aprender programação é construindo."*
+
+<div align="center">
+  
+  ![snake gif](https://github.com/OiakBez/OiakBez/blob/output/github-snake-dark.svg)
+</div>
