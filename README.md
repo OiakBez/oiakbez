@@ -13,7 +13,7 @@ Estou constantemente estudando, desenvolvendo projetos e buscando evoluir minhas
 ## Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,sqlite,mysql,postgres,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,sqlite,postgres,linux,git,github" />
 </p>
 
 ---
