@@ -18,19 +18,6 @@ Estou constantemente estudando, desenvolvendo projetos e buscando evoluir minhas
 
 ---
 
-## 📌 Projetos
-
-🔹 **Blog Pessoal**
-Aplicação web desenvolvida com Python e Flask, utilizando banco de dados para gerenciamento de publicações.
-
-🔹 **Calculator Python**
-Projeto desenvolvido em Python para praticar lógica de programação e desenvolvimento de aplicações.
-
-🔹 **Projetos em desenvolvimento**
-Estou constantemente criando novos projetos para colocar em prática o que venho aprendendo.
-
----
-
 ## Atualmente estudando
 
 * 🐍 Python e desenvolvimento Back-end
@@ -44,7 +31,7 @@ Estou constantemente criando novos projetos para colocar em prática o que venho
 
 ## 📊 GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OiakBez\&include_all_commits=true\&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=OiakBez&include_all_commits=true&theme=highcontrast)  [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan\&langs_count=6\&theme=highcontrast)](https://wakatime.com/@alan)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OiakBez\&include_all_commits=true\&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=OiakBez&include_all_commits=true&theme=highcontrast)  
 
 ---
 
