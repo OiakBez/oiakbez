@@ -1,10 +1,10 @@
 # Olá! Eu sou Kaio Bezerra
 
-### 💻 Desenvolvedor Back-end | Python | APIs | Linux
+### 💻 Desenvolvedor Back-end | Python | Java | APIs | Linux
 
 Sou desenvolvedor de software apaixonado por tecnologia e por transformar ideias em projetos reais.
 
-Atualmente, tenho como foco o desenvolvimento **Back-end**, principalmente utilizando **Python**, criação de **APIs** e desenvolvimento de aplicações web. Também tenho grande interesse por **Linux, bancos de dados e Cybersecurity**.
+Atualmente, tenho como foco o desenvolvimento **Back-end**, principalmente utilizando **Python e Java**, criação de **APIs** e desenvolvimento de aplicações web. Também tenho grande interesse por **Linux, bancos de dados e Cybersecurity**.
 
 Estou constantemente estudando, desenvolvendo projetos e buscando evoluir minhas habilidades na área de tecnologia.
 
@@ -13,7 +13,7 @@ Estou constantemente estudando, desenvolvendo projetos e buscando evoluir minhas
 ## Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,html,css,js,sqlite,postgres,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,flask,fastapi,html,css,js,sqlite,postgres,linux,git,github" />
 </p>
 
 ---
@@ -21,6 +21,7 @@ Estou constantemente estudando, desenvolvendo projetos e buscando evoluir minhas
 ## Atualmente estudando
 
 * 🐍 Python e desenvolvimento Back-end
+* ☕ Java
 * 🔌 APIs REST
 * 🗄️ Bancos de dados
 * 🐧 Linux
@@ -31,7 +32,7 @@ Estou constantemente estudando, desenvolvendo projetos e buscando evoluir minhas
 
 ## 📊 GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OiakBez\&include_all_commits=true\&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=OiakBez&include_all_commits=true&theme=highcontrast)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OiakBez\&include_all_commits=true\&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=OiakBez&include_all_commits=true&theme=highcontrast)
 
 ---
 
