@@ -1,4 +1,4 @@
-# Olá! Eu sou Kaio Bezerra
+# Kaio Bezerra
 
 ### 💻 Desenvolvedor Back-end | Python | Java | APIs | Linux
 
